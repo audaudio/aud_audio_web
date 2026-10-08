@@ -1,0 +1,22 @@
+// @license
+// Copyright (c) Audanika. All Rights Reserved.
+//
+// Use of this source code is governed by terms that can be
+// found in the LICENSE file in the root of this package.
+
+{
+  "name": "aud_audio_web",
+  "summary": "Web build of the Audanika Audio Engine: Emscripten toolchain, AudioWorklet host, Wasm Worker control runtime.",
+  "domain": [
+    "Web build of the Audanika Audio Engine"
+  ],
+  "interfaces": {
+    "uses": {
+      "aud_audio_graph": "package dependency",
+      "aud_audio_io": "package dependency"
+    },
+    "usedBy": {
+      "aud_audio": "consumes this package"
+    }
+  }
+}
