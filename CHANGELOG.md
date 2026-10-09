@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Changed
+
+- Pin the graph and the IO of ticket 22
+
 ## 0.0.3 - 2026-10-08
 
 ### Changed
