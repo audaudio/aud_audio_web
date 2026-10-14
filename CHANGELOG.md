@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased
+
+### Added
+
+- Add helix ^1.12.0 to the dev dependencies
+
 ## 0.0.6 - 2026-10-12
 
 ## 0.0.5 - 2026-10-12
