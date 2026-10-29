@@ -37,29 +37,29 @@ packages:
     dependency: transitive
     description:
       path: "."
-      resolved-ref: "8aa3cab844a1c257db6b92a124d904d9a540f8a1"
+      resolved-ref: e5be8491576647870c49e53786d33c3ebf10dba9
       tag-pattern: "{{version}}"
       url: "git@github.com:audaudio/aud_audio_core.git"
     source: git
-    version: "0.6.0"
+    version: "0.6.1"
   aud_audio_graph:
     dependency: "direct main"
     description:
       path: "."
-      resolved-ref: e36be27671d52d623d6c18445144a4feb3605ee6
+      resolved-ref: "6a44f3c1d7774663474efc5329baa77853131e5c"
       tag-pattern: "{{version}}"
       url: "git@github.com:audaudio/aud_audio_graph.git"
     source: git
-    version: "0.6.0"
+    version: "0.6.2"
   aud_audio_io:
     dependency: "direct main"
     description:
       path: "."
-      resolved-ref: "04fee9d51947ec5033c1c3bedba9e220ea4a476c"
+      resolved-ref: be739589c356fde6209215bb32b2ac274f56f6a5
       tag-pattern: "{{version}}"
       url: "git@github.com:audaudio/aud_audio_io.git"
     source: git
-    version: "0.5.0"
+    version: "0.5.1"
   aud_midi_standard:
     dependency: transitive
     description:
